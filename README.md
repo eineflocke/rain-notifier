@@ -1,6 +1,7 @@
 # rain-notifier
 
 sends email when rain approaches
+
 relys on resources on Japan Meteorological Agency (JMA) website
 https://www.jma.go.jp/bosai/nowc/
 
